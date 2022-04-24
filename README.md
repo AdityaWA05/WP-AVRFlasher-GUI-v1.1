@@ -14,6 +14,9 @@ Project Information :
 GUI Software : https://www.lazarus-ide.org/  
 AVRDude : https://www.nongnu.org/avrdude/  
 
+Screenshot The Shoftware :
+https://github.com/AdityaWA05/WP-AVRFlasher-GUI-v1.1/tree/main/ScreenShot
+
 Tested on :
 1. Arduino Uno DIP 328
 2. Arduino Nano 328
