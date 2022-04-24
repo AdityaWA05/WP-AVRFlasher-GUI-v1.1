@@ -1,0 +1,45 @@
+//----------------- WP-AVRFlasher GUI Release Note -----------------
+
+>> By Aditya Wahyu Ardianysah
+>> Warna Parabola Ponorogo
+>> (C) 2019 - 2022
+
+2019-07
+WP-AVRFlasher GUI v0.1 Beta First Release
+
+2019-08
+WP-AVRFlasher GUI v0.2
+- Fix : minor and Major bugs.
+- New : Small Form
+
+2019-11
+WP-AVRFlasher GUI v0.3
+- Fix : minor and Major bugs.
+- Add : Text Color on Select.
+- Add : Auto last configuration.
+- Add : Check box for UnPause AVRDude
+- New : Small Form for Bar.
+
+2022-04-16
+WP-AVRFlasher GUI v1.0
+- Fix : minor and Major bugs.
+- Add : Check box for Upload Eeprom File.
+
+2022-04-24 - 22:56 WIB
+WP-AVRFlasher GUI v1.1
+- Fix : minor and Major bugs.
+- Add : Button to Configure Setting Fuse Bits.
+- Add : Check box for Upload Fuse Bits Setting's.
+- Add : Panel Fusebits
+- Add : Button Back, for remove Panel Fusebits
+- Add : Text box for value Low Fuse, High Fuse, Extended Fuse And Lock Fuse.
+- Add : Check box for Upload value Low Fuse, High Fuse, Extended Fuse And Lock Fuse.
+- Add : Button to Read The Fusebits and Lock Bits. ( fusebit reading result will be saved in file LogFile.txt )
+- Add : Button to Write The Fusebits and Lock Bits.
+- Add Function : Save The Output AVRDUDE To FILE .TXT (AVRDude/ LogFile.txt).
+- Add : Button to Show LogFile.txt
+- Add Function : dialog warning when exiting the app.
+- Add Function : display the creation date of the .hex file.
+- Add Function : Auto save and Load the Configuration settings to file (.ini)
+
+//-------------------- End Of Release Note --------------------
